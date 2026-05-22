@@ -1,4 +1,21 @@
+
+
+
+
 <div align="center">
+
+
+<video 
+  src="https://github.com/user-attachments/assets/42a0b14d-2728-4b66-a8f5-f1936de8be57"
+  autoplay
+  loop
+  muted
+  playsinline
+  width="100%">
+</video>
+
+
+
 
 # ⚡ TANISH SINGH ⚡
 
@@ -19,15 +36,66 @@
 ## 🌌 Who Am I?
 
 ```yaml
-name: Tanish Singh
-located_in: Ludhiana → Mohali, Punjab
-education: B.E Computer Science @ Chitkara University
-current_focus:
-  - Scalable Backend Systems
-  - Distributed Architectures & Microservices
-  - Cloud Engineering on AWS
-  - DSA — 500+ problems solved
-philosophy: "Code should feel like architecture."
+ame: Tanish Singh
+
+based_in: Chandigarh, India
+
+education:
+  degree: Bachelor of Engineering
+  field: Computer Science Engineering
+  university: Chitkara University
+
+role:
+  - Backend Engineer
+  - System Design Enthusiast
+  - Problem Solver
+
+currently_exploring:
+  - Scalable Backend Architectures
+  - Distributed Systems & Microservices
+  - Cloud Infrastructure on AWS
+  - High Performance APIs
+  - Real-Time Systems
+
+tech_stack:
+  languages:
+    - JavaScript
+    - TypeScript
+    - Java
+
+  backend:
+    - Node.js
+    - Express.js
+    - MongoDB
+    - Redis
+    - RabbitMQ
+
+  cloud_and_devops:
+    - AWS
+    - Docker
+    - GitHub Actions
+    - CI/CD
+
+dsa:
+  problems_solved: 500+
+
+currently_building:
+  - AI-powered applications
+  - Production-grade backend systems
+  - Scalable microservice ecosystems
+
+engineering_principles:
+  - Clean Architecture
+  - Scalability First
+  - Performance Optimization
+  - Developer Experience
+
+mindset:
+  "I don't just write code.
+   I design systems that scale."
+
+philosophy:
+  "Code should feel like architecture."
 ```
 
 ---
@@ -150,47 +218,22 @@ Multi-role food delivery backend architecture.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishsingh03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f78166&icon_color=56d364&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishsingh03&theme=github-dark-blue&hide_border=true&background=0d1117&ring=f78166&fire=f78166&currStreakLabel=56d364" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanishsingh03&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br/>
+<img width="49%" src="https://streak-stats.demolab.com?user=tanishsingh03&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishsingh03&theme=tokyo-night&hide_border=true&radius=8&bg_color=0d1117" />
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishsingh03&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧬 System Design DNA
-
-```
-        ┌──────────────────────────────┐
-        │         USER REQUEST         │
-        └─────────────┬────────────────┘
-                      │
-               Load Balancer
-                      │
-       ┌──────────────┴──────────────┐
-       │                             │
-  API Gateway                  Auth Service (JWT)
-       │                             │
-       └──────────────┬──────────────┘
-                      │
-             Backend Services
-                      │
-     ┌────────────────┼─────────────────┐
-     │                │                 │
-PostgreSQL          Redis           WebSockets
-(Persistent)      (Cache)          (Real-time)
-     │                │                 │
-     └────────────────┴─────────────────┘
-                      │
-              Docker + AWS EC2
-```
 
 ---
 
